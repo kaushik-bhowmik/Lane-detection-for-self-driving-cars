@@ -1,5 +1,5 @@
 # Lane-detection-for-self-driving-cars
-This project, I worked on lane detection for self-driving cars.
+Abstract: As for autonomous driving cars, it is required to detect lanes correctly for safe driving.So, this objective can be achieved by using computer vision for the detection of lanes for self driving cars.
 The pipeline for project is :
 1. Defining the preprocessing functions for the images which include converting the image into gray-scale and then performing Canny edge detection.
 2. As the camera's field of view is large, cropping the image to just include the region of interest. 
